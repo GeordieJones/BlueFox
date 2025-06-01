@@ -27,3 +27,17 @@
 ![IMG_5021](https://github.com/user-attachments/assets/fc34c490-c5b8-426f-9c02-de3aa74ac02c)
 
 **RESULTS:** after the week was done the boxes where removed and opened to test the hardware. The tissue was damp on the PLA box and had a few drop marks on the PETG box. Both boxes voltage steppers LED's worked indicating the boxes did there intended job. In the sauna the PLA box did not melt but became extremely soft to the point where you could push a hole in it with almost no effort while the PETG box held firm as expected due to it's higher melting point.
+
+**FINAL MAKE:** with the test complete and the code working I created the final designs to hold the boards, batteries, antennas, and camera. The range of each mesh is around 0.6 miles in a suburban highley wooded area but is dramatically increased if the the senders hight is increased.
+
+
+<img width="1304" alt="Screenshot 2025-05-31 at 7 55 28 PM" src="https://github.com/user-attachments/assets/18e7a48c-8c6b-4e4a-9311-3697add5099a" />
+
+
+**EXTRA NOTES:** When printing with the screws I highly recommend giving youself tolerances as it is very easy to make a screw too big for the hole, I usually use a .2 - .3 mm offset. Additionally, when programming the LoRa it is very important to make sure you are using the Library that matches the chip on your board originaly when I was trying to use the LoRa.h library I was missing packets and getting false data I had to change to the LoRaWan_APP.h library to get my messages to work coherently.
+
+**INSPERATION:** the cases are each named after a top gun character as maverick is the main character it is the CAM, goose is the wing man and relaying the data, and iceman is the commander and most reliable.
+The name blueFox comes from a cold war project that built covert long range image and data transmittion. Hense why this project is named blueFox because it's intention is to be a covert camera sytem that can send images over long ranges.
+
+
+![ChatGPT_Image_Jun_1_2025_at_01_08_06_PM](https://github.com/user-attachments/assets/46a17720-6489-43d5-86ae-fc04934339f1)
