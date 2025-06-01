@@ -36,6 +36,18 @@
 
 **EXTRA NOTES:** When printing with the screws I highly recommend giving youself tolerances as it is very easy to make a screw too big for the hole, I usually use a .2 - .3 mm offset. Additionally, when programming the LoRa it is very important to make sure you are using the Library that matches the chip on your board originaly when I was trying to use the LoRa.h library I was missing packets and getting false data I had to change to the LoRaWan_APP.h library to get my messages to work coherently.
 
+
+**MATERIALS USED:**  
+
+
+ **- ESP32-CAM Ai Thinker Model** – [link](https://www.amazon.com/ESP32-CAM-MB-Aideepen-ESP32-CAM-Bluetooth-Arduino/dp/B0948ZFTQZ/ref=sr_1_6?crid=1L9CJPSGVLZ3S&keywords=esp%2BCAM&qid=1748801614&s=electronics&sprefix=esp%2Bcam%2Celectronics%2C101&sr=1-6&th=1)  
+ **- Heltec LoRa V3 WiFi** – [link](https://www.amazon.com/dp/B076MSLFC9?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)  
+ **- LiPo Battery** – [link](https://example.com/link-to-cam)  
+ **- Antenna** – [link](https://www.amazon.com/dp/B0DLK6BG3L?ref=ppx_yo2ov_dt_b_fed_asin_title)  
+ **- PLA Basic** – [link](https://us.store.bambulab.com/products/pla-basic-filament)  
+ **- PETG HF** – [link](https://us.store.bambulab.com/products/petg-hf)  
+
+
 **INSPERATION:** the cases are each named after a top gun character as maverick is the main character it is the CAM, goose is the wing man and relaying the data, and iceman is the commander and most reliable.
 The name blueFox comes from a cold war project that built covert long range image and data transmittion. Hense why this project is named blueFox because it's intention is to be a covert camera sytem that can send images over long ranges.
 
