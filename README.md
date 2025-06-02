@@ -50,7 +50,7 @@
  **- PETG HF** – [link](https://us.store.bambulab.com/products/petg-hf)  
 
 
-**INSPERATION:** the cases are each named after a top gun character as maverick is the main character it is the CAM, goose is the wing man and relaying the data, and iceman is the commander and most reliable.
+**INSPIRATION:** the cases are each named after a top gun character as maverick is the main character it is the CAM, goose is the wing man and relaying the data, and iceman is the commander and most reliable.
 The name blueFox comes from a cold war project that built covert long range image and data transmittion. Hense why this project is named blueFox because it's intention is to be a covert camera sytem that can send images over long ranges.
 
 
