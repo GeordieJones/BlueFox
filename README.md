@@ -33,6 +33,8 @@
 
 <img width="1304" alt="Screenshot 2025-05-31 at 7 55 28 PM" src="https://github.com/user-attachments/assets/18e7a48c-8c6b-4e4a-9311-3697add5099a" />
 
+![IMG_5031](https://github.com/user-attachments/assets/db9e6f79-474e-416c-a1da-e7c5c658ce95)
+
 
 **EXTRA NOTES:** When printing with the screws I highly recommend giving youself tolerances as it is very easy to make a screw too big for the hole, I usually use a .2 - .3 mm offset. Additionally, when programming the LoRa it is very important to make sure you are using the Library that matches the chip on your board originaly when I was trying to use the LoRa.h library I was missing packets and getting false data I had to change to the LoRaWan_APP.h library to get my messages to work coherently.
 
